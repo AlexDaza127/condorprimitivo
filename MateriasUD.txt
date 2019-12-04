@@ -1,0 +1,8 @@
+1 Calculo
+2 Programacion
+3 Logica
+4 Catedra
+5 Democracia
+7 Ecuaciones
+8 Artes
+9 Fisica
